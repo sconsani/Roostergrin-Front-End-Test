@@ -1,3 +1,43 @@
 html {
 	background-color: blue;
 }
+.intro-strip{
+	height: 700px;
+	background-image: url("../../front-end-dev-test-assets/hero.jpg")
+	
+	/*background-color: #FAFAFA;*/
+}
+
+.strip-2 {
+	height: 500px;
+}
+
+.strip-3 {
+	height: 600px;
+	background-image: url("../../front-end-dev-test-assets/banner-1.jpg")
+	
+}
+
+.strip-4 {
+	height: 600px;
+	background-color: red;
+	
+}
+
+.strip-5 {
+	height: 500px;
+	background-image: url("../../front-end-dev-test-assets/banner-2jpg")
+	
+}
+
+footer{
+	background-color: #FAFAFA;
+	height: 70px;
+}
+
+.insta-svg {
+	background-size: 5px 30px;
+}
+.fb-svg {
+	background-size: 5px 30px;
+}
