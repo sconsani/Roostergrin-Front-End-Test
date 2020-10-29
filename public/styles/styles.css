@@ -1,6 +1,35 @@
 html {
-	background-color: blue;
+	background-color:#FFFFFF ;
+	font-family: 'Open Sans', sans-serif;;
 
+}
+h1{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	color: black;
+	background:
+	-webkit-text-fill-color: transparent;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+	color: #613476;
+}
+
+a{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.button-variant {
+	background-color: #AC5FD0;
+}
+
+.button-variant-2 {
+	background-color: #FF7218;
 }
 
 					/*intro welcome to Rooster Grin Strip*/
@@ -47,8 +76,18 @@ html {
 	
 }
 
+.strip-4 .row{
+justify-content: center;
+
+}
+
 #ft-grid{
 	background-color: #FAFAFA;
+	text-align: center;
+}
+
+.feature-img {
+	height: 100px;
 }
 
 					/*info girl banner strip 5*/
